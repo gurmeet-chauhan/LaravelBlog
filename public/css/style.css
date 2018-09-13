@@ -1,0 +1,23 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    min-height: 100%;
+}
+
+nav {
+    border-bottom: 3px solid royalblue;
+}
+
+#post-content {
+    display: grid;
+    align-items: center;
+}
+
+#del-edit-panel {
+    display: flex;
+    justify-content: center;
+}
+
+#edit-button {
+    margin-right: 3px;
+}
